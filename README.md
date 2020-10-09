@@ -2,7 +2,7 @@
 QUIC Transport with libUV
 
 
-* [QUIC protocol](https://www.ietf.org/id/draft-ietf-quic-transport-28.txt)
+* [QUIC protocol](https://quicwg.org/)
 
 ### License
 (The MIT License)
